@@ -5,8 +5,6 @@
 
 This is a small, standalone utility designed to resolve a specific data corruption issue that can occur with the main WBB Loader under certain circumstances. If your loader fails to start and displays a "corrupted!" message, this tool is designed to fix it.
 
-![Screenshot of the WBB Loader 'corrupted!' error](https://github.com/hutaoshusband/wbb_reset_ui/blob/main/corrupted.png?raw=true )
-
 ## Problem Description
 
 In rare cases, system instability, unexpected shutdowns, or conflicts can cause the loader's local profile data to become corrupted. This prevents the loader from starting correctly and may result in a permanent error message.
